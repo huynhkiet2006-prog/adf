@@ -1,0 +1,15 @@
+{
+	"name": "adf-cicd-dev-uksouth1411915",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df9656b5-c629-4877-bf30-49498cc3dabb",
+		"tenantId": "947cc945-20b3-43ef-8837-dcfafcec721c"
+	}
+}
